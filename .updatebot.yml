@@ -1,7 +1,0 @@
-github:
-  organisations:
-  - name: activiti
-    repositories:
-    - name: example-runtime-bundle
-      branch: master
-      useSinglePullRequest: true
