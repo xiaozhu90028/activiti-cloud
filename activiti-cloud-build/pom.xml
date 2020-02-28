@@ -6,13 +6,13 @@
   <parent>
     <artifactId>activiti-cloud-mono-aggregator</artifactId>
     <groupId>org.activiti</groupId>
-    <version>7.1.0-SNAPSHOT</version>
+    <version>7.1.405</version>
     <relativePath>../</relativePath>
   </parent>
 
   <groupId>org.activiti.cloud.build</groupId>
   <artifactId>activiti-cloud-parent</artifactId>
-  <version>7.1.0-SNAPSHOT</version>
+  <version>7.1.405</version>
   <packaging>pom</packaging>
   <name>Activiti Cloud :: Build</name>
   <description>${project.name}</description>
