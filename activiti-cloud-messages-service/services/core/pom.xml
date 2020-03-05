@@ -4,7 +4,7 @@
   <parent>
     <groupId>org.activiti.cloud.messages</groupId>
     <artifactId>activiti-cloud-services-messages</artifactId>
-    <version>7.1.0-SNAPSHOT</version>
+    <version>7.1.408</version>
   </parent>
   <name>Activiti Cloud Services :: Messages Core</name>
   <artifactId>activiti-cloud-services-messages-core</artifactId>
